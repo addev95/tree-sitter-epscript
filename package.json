@@ -1,0 +1,1 @@
+{"dependencies":{"nan":"^2.18.0"},"description":"Tree-sitter grammar for epScript (.eps) — StarCraft EUD map scripting","devDependencies":{"tree-sitter-cli":"^0.22"},"keywords":["tree-sitter","epscript"],"main":"bindings/node","name":"tree-sitter-epscript","version":"0.1.0"}
